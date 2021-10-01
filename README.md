@@ -1,4 +1,4 @@
 - Hi, I’m @H-Webb
 - I’m interested in Software development and pushing myself to use new technologies
-- I’m currently looking to build a portfolio to hlep with my Resume
+- I’m currently looking to build a portfolio to help with my Resume
 - You can reach me on Hobie.webb@outlook.com
